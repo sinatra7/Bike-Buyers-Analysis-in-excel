@@ -14,6 +14,9 @@ The dataset is organized into multiple sheets within the Excel file:
   - Count of bike purchases by individual age.
 - **dashboard**: A placeholder sheet titled "Bike Sales Dashboard" for visualizing insights (not fully implemented in the provided data).
 
+  <img width="1188" height="717" alt="Screenshot 2025-08-02 131624" src="https://github.com/user-attachments/assets/97243552-ed22-4a79-866a-45d165d561fd" />
+
+
 ## Objectives
 - Analyze the relationship between demographic/socio-economic factors and bike purchasing decisions.
 - Summarize key metrics such as average income and purchase counts by various categories.
